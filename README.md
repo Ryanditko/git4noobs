@@ -234,4 +234,4 @@ git branch -d feature/novo-recurso
 
 ---
 
-**Desenvolvido para ajudar iniciantes a dominar Git! 🚀**
+**Desenvolvido para ajudar iniciantes a dominar Git!**
