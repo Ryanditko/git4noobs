@@ -12,7 +12,7 @@
 
 ---
 
-# 📘 Git para Noobs - Guia Completo de Comandos
+# Git para Noobs - Guia de Comandos
 
 ## Índice
 1. [Configuração Inicial](#configuração-inicial)
@@ -247,36 +247,10 @@ git branch -d feature/novo-recurso
 - `main/master` = Branch padrão
 
 ---
-
 **Desenvolvido para ajudar iniciantes a dominar Git!**
-
-
 ---
 
-## 🌟 O Que Você Vai Aprender
-
-- **Git Fundacional**: Como o Git funciona por baixo dos panos
-- **Fluxo de Trabalho**: Padrões profissionais de desenvolvimento com branches
-- **Colaboração**: Como trabalhar com outros devs sem conflitos
-- **Recuperação**: Técnicas para desfazer erros sem danificar seu código
-- **Versionamento**: Táticas de releases e tags para produção
-- **Automação**: Integração com CI/CD e GitHub Actions
-
----
-
-## 🚀 Por Que Este Guia?
-
-A maioria dos guias de Git são:
-- Muito técnicos e assustam iniciantes
-- Faltam exemplos práticos e do mundo real
-- Não mostram fluxo de trabalho completo
-- Confundem mais do que esclarecem
-
-**Este guia é diferente:** cada comando vem com contexto, exemplos reais e casos de uso.
-
----
-
-## 📚 Como Usar Este Repositório
+## Como Usar Este Repositório
 
 1. **Leia o README na ordem**: Começando pela configuração até tópicos avançados
 2. **Experimente os comandos**: Use um repositório de teste local
@@ -285,22 +259,20 @@ A maioria dos guias de Git são:
 
 ---
 
-## 😛 Dica de Ouro
+## Dica de Ouro
 
 > O Git não é tão complexo quanto parece. A maioria dos devs usa apenas 5-10 comandos no dia a dia. O resto é para casos específicos!
 
 ---
 
-## 📝 Contribuições
+## Contribuições
 
 Encontrou algum erro ou tem sugestões? Abra uma issue ou submeta um PR! Este guia melhor com contribuições da comunidade.
 
 ---
 
-## 📋 Licença
+## Licença
 
 Este projeto está sob a licença **MIT** - sinta-se livre para usar e compartilhar!
 
 ---
-
-**🚀 Boa sorte na sua jornada com Git! Você consegue! 🚀**
