@@ -1,7 +1,7 @@
 # Git for Noobs – Command Guide
 
 <p align="center">
-  <img src="https://i.imgur.com/aKQcmrf.jpeg" alt="git wallpaper" width="800">
+  <img src="https://i.ytimg.com/vi/teUBcP4SNrc/maxresdefault.jpg" alt="git wallpaper" width="800">
 </p>
 
 ## Index
