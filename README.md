@@ -1,18 +1,8 @@
-> **📘 For Git beginners who want to learn in an organized and practical way!**
->
-> This repository contains a complete guide with:
-> - 40+ essential commands with detailed explanations  
-> - Real usage examples for each command  
-> - Step-by-step professional workflow  
-> - Commit and versioning best practices  
-> - Tips to avoid common mistakes  
-> - Use cases with Git, GitHub, and CI/CD  
->
-> **Perfect for: students, junior developers, and anyone starting in programming.**
-
----
-
 # Git for Noobs – Command Guide
+
+<p align="center">
+  <img src="https://i.imgur.com/aKQcmrf.jpeg" alt="git wallpaper" width="800">
+</p>
 
 ## Index
 1. [Initial Setup](#initial-setup)
